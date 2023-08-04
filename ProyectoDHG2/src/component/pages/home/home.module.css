@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.titulo{
+  padding: 15px;
+}
+
+.card{
+  display: flex;
+  align-content: space-between;
+  margin-top: 10px;
+
+}
